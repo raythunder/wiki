@@ -1,0 +1,12 @@
+color: #bbb
+created: 20230624055806608
+creator: TidGi User
+icon: $:/core/images/options-button
+modified: 20230624062208096
+modifier: TidGi User
+title: $:/ControlPanel
+
+\whitespace trim
+<div class="tc-control-panel">
+<$macrocall $name="tabs" tabsList="[all[shadows+tiddlers]tag[$:/tags/ControlPanel]!has[draft.of]]" default="$:/core/ui/ControlPanel/Info" explicitState="$:/state/tab-1749438307"/>
+</div>
