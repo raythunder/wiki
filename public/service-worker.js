@@ -38,7 +38,7 @@ registerRoute(
   })
 );
 
-registerRoute(/\.js$/, new StaleWhileRevalidate());
+registerRoute(/\.js$/, new NetworkFirst());
 
 
 /*

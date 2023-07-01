@@ -2,6 +2,7 @@
   "description": "TW5-T-ONLINE",
   "plugins": [
     "tiddlywiki/filesystem",
+    "tiddlywiki/markdown",
     "tiddlywiki/tiddlyweb"
   ],
   "themes": [
